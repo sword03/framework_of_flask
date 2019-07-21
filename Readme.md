@@ -1,6 +1,7 @@
 # A Framework With Flask 
 
 ## 1 Abstract
+I create a project to show how to program with flask.
 
 ## 2 Install
 ### 2.1 Dependency 
